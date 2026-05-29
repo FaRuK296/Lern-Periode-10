@@ -30,6 +30,10 @@ Heute habe ich das Grundgerüst meiner persönlichen Startseite geplant und umge
 - [x] Eigenes Foto hinzufügen, ein passendes Profilbild auf der Startseite, damit die Webseite persönlicher und professioneller wirkt
 - [x] Projekte-Bereich erweitern, einen Bereich mit mehreren Projekten inklusive Bildern, kurzen Beschreibungen und Links zu GitHub-Repositories.
 
-☝️ Vergessen Sie nicht, die angepasste Version Ihrer Start-Seite in der entsprechenden Ablage hochzuladen.
+Heute habe ich meine persönliche Portfolio-Webseite weiterentwickelt. Ich habe eine Navigationsleiste erstellt, das Design an meine Skizze angepasst und ein Profilbild in die Startseite integriert. Zudem habe ich meinen Lebenslauf verlinkt und mich an modernen Portfolio-Webseiten orientiert, um ein professionelleres Erscheinungsbild zu erreichen.
 
 ## 5.6.
+- [ ] Hero-Bereich verbessern: Den oberen Bereich der Webseite überarbeiten (Name, Abholer-Satz, Profilbild und Buttons), damit die Startseite moderner und ansprechender wirkt.
+- [ ] Projekte-Bereich fertigstellen: Mindestens drei Projekte mit Bild, Beschreibung und Link zu GitHub hinzufügen.
+- [ ] Über-mich-Bereich ausbauen: Einen aussagekräftigen Text über meine Person, meine Ausbildung, Interessen und Fähigkeiten verfassen.
+- [ ] Responsive Design verbessern: Die Webseite auf verschiedenen Bildschirmgrössen testen und das Layout für Handy und Tablet optimieren.
