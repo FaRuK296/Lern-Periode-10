@@ -25,10 +25,10 @@
 Heute habe ich das Grundgerüst meiner persönlichen Startseite geplant und umgesetzt. Ich habe zwei GitHub-Repositories erstellt bzw. organisiert: eines für die Lern-Periode und eines für meine eigentliche Portfolio-Seite. Zusätzlich habe ich erste Ideen für das Layout meiner Webseite skizziert und mich von modernen Portfolio-Webseiten inspirieren lassen. Ausserdem habe ich einen passenden Abholer-Satz formuliert und begonnen, meine Inhalte wie CV, Projekte und Kontaktinformationen zu strukturieren.
 
 ## 29.5.
-- [ ] Navigationsleiste erstellen, die Navigation soll übersichtlich und modern gestaltet werden.
-- [ ] Design der Webseite verbessern, es soll meiner Skizze ähnlicher sein. (Aus dem internet inspirieren lassen)
-- [ ] Eigenes Foto hinzufügen, ein passendes Profilbild auf der Startseite, damit die Webseite persönlicher und professioneller wirkt
-- [ ] Projekte-Bereich erweitern, einen Bereich mit mehreren Projekten inklusive Bildern, kurzen Beschreibungen und Links zu GitHub-Repositories.
+- [x] Navigationsleiste erstellen, die Navigation soll übersichtlich und modern gestaltet werden.
+- [x] Design der Webseite verbessern, es soll meiner Skizze ähnlicher sein. (Aus dem internet inspirieren lassen)
+- [x] Eigenes Foto hinzufügen, ein passendes Profilbild auf der Startseite, damit die Webseite persönlicher und professioneller wirkt
+- [x] Projekte-Bereich erweitern, einen Bereich mit mehreren Projekten inklusive Bildern, kurzen Beschreibungen und Links zu GitHub-Repositories.
 
 ☝️ Vergessen Sie nicht, die angepasste Version Ihrer Start-Seite in der entsprechenden Ablage hochzuladen.
 
