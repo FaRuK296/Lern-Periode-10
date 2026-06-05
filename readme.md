@@ -38,6 +38,7 @@ Heute habe ich mein LinkedIn-Profil und mein GitHub-Profil verbessert. Anschlies
 LinkedIn-Profil:
 [https://www.linkedin.com/in/faruk-hodzic
 ](https://www.linkedin.com/in/faruk-hodzic-76a04b405/)
+
 Erkenntnisse aus den Rückmeldungen:
 - Konkrete Beispiele und Projekte wirken überzeugender als allgemeine Aussagen.
 - Ein GitHub-Profil kann die Bewerbung deutlich stärken.
