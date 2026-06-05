@@ -33,7 +33,12 @@ Heute habe ich das Grundgerüst meiner persönlichen Startseite geplant und umge
 Heute habe ich meine persönliche Portfolio-Webseite weiterentwickelt. Ich habe eine Navigationsleiste erstellt, das Design an meine Skizze angepasst und ein Profilbild in die Startseite integriert. Zudem habe ich meinen Lebenslauf verlinkt und mich an modernen Portfolio-Webseiten orientiert, um ein professionelleres Erscheinungsbild zu erreichen.
 
 ## 5.6.
-- [ ] Hero-Bereich verbessern: Den oberen Bereich der Webseite überarbeiten (Name, Abholer-Satz, Profilbild und Buttons), damit die Startseite moderner und ansprechender wirkt.
-- [ ] Projekte-Bereich fertigstellen: Mindestens drei Projekte mit Bild, Beschreibung und Link zu GitHub hinzufügen.
-- [ ] Über-mich-Bereich ausbauen: Einen aussagekräftigen Text über meine Person, meine Ausbildung, Interessen und Fähigkeiten verfassen.
-- [ ] Responsive Design verbessern: Die Webseite auf verschiedenen Bildschirmgrössen testen und das Layout für Handy und Tablet optimieren.
+Heute habe ich mein LinkedIn-Profil und mein GitHub-Profil verbessert. Anschliessend habe ich Bewerbungen von meinen Klassenkameraden überprüft und Rückmeldungen dazu verfasst. Dabei habe ich gelernt, wie wichtig ein individuelles Motivationsschreiben, eine professionelle E-Mail und ein aussagekräftiges GitHub-Profil sind.
+
+LinkedIn-Profil:
+https://www.linkedin.com/in/faruk-hodzic
+
+Erkenntnisse aus den Rückmeldungen:
+- Konkrete Beispiele und Projekte wirken überzeugender als allgemeine Aussagen.
+- Ein GitHub-Profil kann die Bewerbung deutlich stärken.
+- Eine professionelle E-Mail gehört zu einer vollständigen Bewerbung.
