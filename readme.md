@@ -43,3 +43,14 @@ Erkenntnisse aus den Rückmeldungen:
 - Konkrete Beispiele und Projekte wirken überzeugender als allgemeine Aussagen.
 - Ein GitHub-Profil kann die Bewerbung deutlich stärken.
 - Eine professionelle E-Mail gehört zu einer vollständigen Bewerbung.
+
+
+## 12.6.
+Heute habe ich meine Kompetenzen eingeschätzt und verschiedene Berufe recherchiert. Anschliessend habe ich mich mit dem Beruf Wirtschaftsinformatiker beschäftigt und die Anforderungen einer passenden Stelle analysiert. Danach habe ich die wichtigsten Kompetenzen ausgewählt und eine Präsentationsfolie erstellt, um den Beruf kurz vorzustellen. Zum Schluss wurden die verschiedenen Berufe in der Klasse präsentiert.
+
+## 19.6.
+-[ ] 
+
+-[ ] Den oberen Bereich der Webseite überarbeiten (Name, Abholer-Satz, Profilbild und Buttons), damit die Startseite moderner und ansprechender wirkt.
+-[ ]
+-
