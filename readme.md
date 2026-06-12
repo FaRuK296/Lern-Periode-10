@@ -46,11 +46,15 @@ Erkenntnisse aus den Rückmeldungen:
 
 
 ## 12.6.
+
+- [x] Lebenslauf verbessert
+- [x] Bewerbungsschreiben für erstellt und abgecshickt
+
 Heute habe ich meine Kompetenzen eingeschätzt und verschiedene Berufe recherchiert. Anschliessend habe ich mich mit dem Beruf Wirtschaftsinformatiker beschäftigt und die Anforderungen einer passenden Stelle analysiert. Danach habe ich die wichtigsten Kompetenzen ausgewählt und eine Präsentationsfolie erstellt, um den Beruf kurz vorzustellen. Zum Schluss wurden die verschiedenen Berufe in der Klasse präsentiert.
 
 ## 19.6.
--[ ] 
 
--[ ] Den oberen Bereich der Webseite überarbeiten (Name, Abholer-Satz, Profilbild und Buttons), damit die Startseite moderner und ansprechender wirkt.
--[ ]
--
+- [ ] Den oberen Bereich meiner Portfolio Webseite überarbeiten (Name, Abholer-Satz, Profilbild und Buttons), damit die Startseite moderner und ansprechender wirkt.
+- [ ] Projekte-Bereich fertigstellen: Mindestens drei Projekte mit Bild, Beschreibung und Link zu GitHub hinzufügen
+- [ ] Über-mich-Bereich ausbauen: Einen aussagekräftigen Text über meine Person, meine Ausbildung, Interessen und Fähigkeiten verfassen.
+- [ ] Responsive Design verbessern: Die Webseite auf verschiedenen Bildschirmgrössen testen und das Layout für Handy und Tablet optimieren.
