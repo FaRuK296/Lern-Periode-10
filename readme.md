@@ -54,7 +54,9 @@ Heute habe ich meine Kompetenzen eingeschätzt und verschiedene Berufe recherchi
 
 ## 19.6.
 
-- [ ] Den oberen Bereich meiner Portfolio Webseite überarbeiten (Name, Abholer-Satz, Profilbild und Buttons), damit die Startseite moderner und ansprechender wirkt.
-- [ ] Projekte-Bereich fertigstellen: Mindestens drei Projekte mit Bild, Beschreibung und Link zu GitHub hinzufügen
-- [ ] Über-mich-Bereich ausbauen: Einen aussagekräftigen Text über meine Person, meine Ausbildung, Interessen und Fähigkeiten verfassen.
-- [ ] Responsive Design verbessern: Die Webseite auf verschiedenen Bildschirmgrössen testen und das Layout für Handy und Tablet optimieren.
+- [x] Den oberen Bereich meiner Portfolio Webseite überarbeiten (Name, Abholer-Satz, Profilbild und Buttons), damit die Startseite moderner und ansprechender wirkt.
+- [x] Projekte-Bereich fertigstellen: Mindestens drei Projekte Beschreibung und Link zu GitHub hinzufügen
+- [x] Über-mich-Bereich ausbauen: Einen aussagekräftigen Text über meine Person, meine Ausbildung, Interessen und Fähigkeiten verfassen.
+- [x] Responsive Design verbessern: Die Webseite auf verschiedenen Bildschirmgrössen testen und das Layout für Handy und Tablet optimieren.
+
+Heute habe ich meine Portfolio-Webseite weiterentwickelt und das Design verbessert. Ich habe eine Navigationsleiste erstellt und so angepasst, dass die verschiedenen Bereiche der Webseite direkt angewählt werden können. Ausserdem habe ich den Hero-Bereich überarbeitet, einen Button für meinen Lebenslauf eingefügt und die Verlinkung zu meinem CV eingerichtet. Zusätzlich habe ich das Scrollverhalten verbessert, sodass die Navigation nun flüssig zu den jeweiligen Abschnitten der Seite führt. Währenddessen habe ich mich an modernen Portfolio-Webseiten orientiert und mein eigenes Layout entsprechend angepasst.
